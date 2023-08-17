@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerViewExCars</string>
+    <string name="name">Hudson Hornet</string>
+    <string name="price">300.000</string>
+    <string name="buy">Satın Al</string>
+</resources>
